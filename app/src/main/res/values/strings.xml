@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LCO</string>
+    <string name="have_account">Don\'t have an account? </string>
+    <string name="sign_up">Sign up</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="password_hint">Password</string>
+    <string name="email_hint">Email</string>
+    <string name="welcome_to_lco">Welcome to Learn Code Online</string>
+    <string name="sign_in_to_continue">Sign In to Continue</string>
+    <string name="google_login">Google Login</string>
+    <string name="facebook_login">Facebook Login</string>
+    <string name="twitter_login">Twitter Login</string>
+    <string name="github_login">Github Login</string>
+    <string name="full_name">Full Name</string>
+    <string name="sign_up_now">Sign Up</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_up_to_unlock_impossibility">Sign Up to unlock the Impossibility</string>
+    <string name="sign_in">Sign In</string>
+    <string name="login_successful">Login Successful</string>
+</resources>
